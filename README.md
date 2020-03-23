@@ -16,4 +16,4 @@
 
 Aqui demos início a aplicação que é um app para uma transportadora fictícia, o FastFeet.
 
-Nesse primeiro desafio criamos algumas funcionalidades básicas que aprendemos ao longo das aulas até aqui. Esse projeto será desenvolvido aos poucos até o fim da jornada onde você teremos uma aplicação completa envolvendo back-end, front-end e mobile, que será utilizada para a **certificação do bootcamp**!
+Nesse primeiro desafio criamos algumas funcionalidades básicas que aprendemos ao longo das aulas até aqui. Esse projeto será desenvolvido aos poucos até o fim da jornada onde teremos uma aplicação completa envolvendo back-end, front-end e mobile, que será utilizada para a **certificação do bootcamp**!
